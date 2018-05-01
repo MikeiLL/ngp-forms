@@ -2,9 +2,9 @@
 /**
  * NGP Volunteer, based on NgpDonations by New Media Campaigns
  *
- * @author      Walker Hamilton <walker@revolutionmessaging.com>
- * @copyright   2013 Revolution Messaging, LLC
- * @link        http://www.revolutionmessaging.com
+ * @author      signalfade <walker@users.noreply.github.com>
+ * 
+ * @link        https://www.github.com/walker
  * @version     1.0.0
  *
  * MIT LICENSE
