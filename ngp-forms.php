@@ -5,7 +5,7 @@
     Description: Integrate NGP donation, volunteer, & signup forms with your site
     Version: 1.2.8
     Author: signalfade
-    Author URI: https://walkeramilton.com
+    Author URI: https://github.com/walker
     Tags: NGP, NGPVAN, Voter Action Network, donations, FEC, politics, fundraising
     License: MIT
 
